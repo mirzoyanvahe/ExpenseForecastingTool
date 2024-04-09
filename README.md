@@ -29,7 +29,7 @@ To run the Expense Forecasting Tool on your machine, follow these steps:
 
 2. **Open in Visual Studio**:
 
-    Open the project in Visual Studio by double-clicking on the solution file (`ExpenseForecastingTool.sln`).
+    Open the project in Visual Studio by double-clicking on the solution file (`WpfApp1.sln`).
 
 3. **Restore NuGet Packages**:
 
