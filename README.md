@@ -12,6 +12,7 @@ The Expense Forecasting Tool is a simple desktop application developed using C# 
 3. [Usage](#usage)
 4. [Dependencies](#dependencies)
 5. [Contributing](#contributing)
+6. [Licence](#Licence)
 
 ## Features
 
@@ -72,3 +73,7 @@ Ensure that these dependencies are installed to run the application successfully
 ## Contributing
 
 Contributions to the Expense Forecasting Tool are welcome! If you find any issues or have suggestions for improvements, feel free to submit bug reports, feature requests, or pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
