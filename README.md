@@ -12,7 +12,7 @@ The Expense Forecasting Tool is a simple desktop application developed using C# 
 3. [Usage](#usage)
 4. [Dependencies](#dependencies)
 5. [Contributing](#contributing)
-6. [Licence](#Licence)
+6. [License](#License)
 
 ## Features
 
