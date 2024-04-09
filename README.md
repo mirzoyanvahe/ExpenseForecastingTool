@@ -27,7 +27,7 @@ To run the Expense Forecasting Tool on your machine, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/mirzoyanvahe/ExpenseForecastingTool.git>
     ```
 
 2. **Open in Visual Studio**:
