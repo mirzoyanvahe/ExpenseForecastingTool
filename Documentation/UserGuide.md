@@ -20,19 +20,24 @@ The Expense Forecasting Tool is designed to help you predict future expenses bas
 1. **Open the Application**: Launch the Expense Forecasting Tool application on your computer.
 
 2. **Interface Overview**: Familiarize yourself with the tool's interface, which includes buttons for adding historical expenses, adding future dates for prediction, and analyzing the data.
+   
    ![alt text](screenshots/1SelectDate.png)
 
 ## Adding Historical Expenses
 
 1. **Select Date**: Click on the date picker to choose the date of the historical expense.
-![alt text](screenshots/2AddExpenseAmount.png)
-2. **Enter Expense Amount**: Input the expense amount in the designated textbox.
-![alt text](screenshots/2AddExpenseAmount.png)
+   
+   ![alt text](screenshots/2AddExpenseAmount.png)
 
-3. **Add Expense**: Click the "Add Expense" button to add the historical expense. The added expenses will be displayed in the list box for reference.
+3. **Enter Expense Amount**: Input the expense amount in the designated textbox.
+   
+   ![alt text](screenshots/2AddExpenseAmount.png)
 
-![alt text](screenshots/3AddExpense.png)
-![alt text](screenshots/3AddedExpenses.png)
+5. **Add Expense**: Click the "Add Expense" button to add the historical expense. The added expenses will be displayed in the list box for reference.
+
+   ![alt text](screenshots/3AddExpense.png)
+   
+   ![alt text](screenshots/3AddedExpenses.png)
 
 
 ## Predicting Future Expenses
@@ -40,13 +45,13 @@ The Expense Forecasting Tool is designed to help you predict future expenses bas
 1. **Select Dates for Prediction**: Use the date picker to select future dates for expense prediction.
 
 2. **Analyze Data**: Click on the "Analyze" button to analyze the historical data and predict expenses for future dates.
-![alt text](screenshots/4SelectDatesForPredicting.png)
+   ![alt text](screenshots/4SelectDatesForPredicting.png)
 
 
 ## Viewing Results
 
 1. **Result**: The predicted expenses for the selected future dates will be displayed in the list box.
-![alt text](screenshots/5Result.png)
+   ![alt text](screenshots/5Result.png)
 
 
 ## Conclusion
