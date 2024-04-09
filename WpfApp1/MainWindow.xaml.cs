@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Windows;
 using MathNet.Numerics.Statistics;
@@ -18,7 +18,11 @@ namespace ExpenseForecastingTool
             InitializeComponent();
         }
 
-        // Event handler for adding historical expenses
+        /// <summary>
+        /// Event handler for adding historical expenses.
+        /// </summary>
+        /// <param name="sender">The object that triggered the event.</param>
+        /// <param name="e">Event arguments.</param>
         private void AddExpenseButton_Click(object sender, RoutedEventArgs e)
         {
             // Parsing input and adding to lists
@@ -38,7 +42,11 @@ namespace ExpenseForecastingTool
             }
         }
 
-        // Event handler for adding future dates
+        /// <summary>
+        /// Event handler for adding future dates.
+        /// </summary>
+        /// <param name="sender">The object that triggered the event.</param>
+        /// <param name="e">Event arguments.</param>
         private void AddFutureDateButton_Click(object sender, RoutedEventArgs e)
         {
             // Parsing input and adding to future dates list
@@ -54,7 +62,11 @@ namespace ExpenseForecastingTool
             }
         }
 
-        // Event handler for analyzing historical data and making predictions
+        /// <summary>
+        /// Event handler for analyzing historical data and making predictions.
+        /// </summary>
+        /// <param name="sender">The object that triggered the event.</param>
+        /// <param name="e">Event arguments.</param>
         private void AnalyzeButton_Click(object sender, RoutedEventArgs e)
         {
             // Check for sufficient data
@@ -89,7 +101,12 @@ namespace ExpenseForecastingTool
             ExpensePredictionsListBox.Items.Add(result);
         }
 
-        // Method to generate a random expense prediction
+        /// <summary>
+        /// Method to generate a random expense prediction.
+        /// </summary>
+        /// <param name="mean">The mean value of historical expenses.</param>
+        /// <param name="stdDev">The standard deviation of historical expenses.</param>
+        /// <returns>A random expense prediction.</returns>
         private double GenerateRandomExpensePrediction(double mean, double stdDev)
         {
             // You can use more sophisticated algorithms and data processing techniques here to generate accurate predictions
