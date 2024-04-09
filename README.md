@@ -2,7 +2,7 @@
 
 The Expense Forecasting Tool is a simple desktop application developed using C# and WPF (Windows Presentation Foundation) to assist users in predicting future expenses based on historical data.
 
-    ![Alt Text](Documentation/screenshots/5Result.png)
+   ![Alt Text](Documentation/screenshots/5Result.png)
 
 
 ## Table of Contents
