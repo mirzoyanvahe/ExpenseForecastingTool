@@ -46,7 +46,7 @@ The Expense Forecasting Tool is designed to help you predict future expenses bas
 
 
 3. **Analyze Data**: Click on the "Analyze" button to analyze the historical data and predict expenses for future dates.
-   ![alt text](screenshots/4SelectDatesForPredicting.png)
+   ![alt text](screenshots/4SelectDateForPredicating.png)
 
 
 ## Viewing Results
