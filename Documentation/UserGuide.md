@@ -27,9 +27,10 @@ The Expense Forecasting Tool is designed to help you predict future expenses bas
 
 2. **Enter Expense Amount**: Input the expense amount in the designated textbox.
 
-3. **Add Expense**: Click the "Add Expense" button to add the historical expense.
+3. **Add Expense**: Click the "Add Expense" button to add the historical expense. The added expenses will be displayed in the list box for reference.
 
-4. **View Added Expenses**: The added expenses will be displayed in the list box for reference.
+   ![alt text](https://github.com/mirzoyanvahe/ExpenseForecastingTool/edit/master/Documentation/1SelectDate.png?raw=true)
+
 
 ## Predicting Future Expenses
 
