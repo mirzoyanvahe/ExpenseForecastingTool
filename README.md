@@ -2,6 +2,9 @@
 
 The Expense Forecasting Tool is a simple desktop application developed using C# and WPF (Windows Presentation Foundation) to assist users in predicting future expenses based on historical data.
 
+![Alt Text](/Documents/screenshots/5Results.png)
+
+
 ## Table of Contents
 
 1. [Features](#features)
@@ -41,20 +44,22 @@ To run the Expense Forecasting Tool on your machine, follow these steps:
 
 ## Usage
 
-Once the application is running, follow these steps to utilize its features:
+To make the most out of the application, follow these steps:
 
-1. **Add Historical Expenses**:
-    - Select a date using the date picker.
-    - Enter the expense amount in the provided textbox.
-    - Click "Add Expense" to add the historical expense.
+1. **Adding Historical Expenses**:
+    - Choose a date from the date picker.
+    - Input the expense amount in the designated textbox.
+    - Click "Add Expense" to include the historical expense.
 
-2. **Add Future Dates**:
-    - Select a future date using the date picker.
-    - Click "Add Future Date" to add the future date for expense prediction.
+2. **Incorporating Future Dates**:
+    - Select a future date via the date picker.
+    - Hit "Add Future Date" to integrate the future date for expense prediction.
 
-3. **Analyze and Predict**:
-    - Click on the "Analyze" button to analyze the historical data and predict expenses for future dates.
-    - Predicted expenses will be displayed in the list box.
+3. **Analysis and Prediction**:
+    - Utilize the "Analyze" button to examine historical data and forecast expenses for future dates.
+    - Predicted expenses will be presented in the list box.
+
+For more detailed instructions and insights, refer to the [User Guide](/Documentation/UserGuide.md).
 
 ## Dependencies
 
